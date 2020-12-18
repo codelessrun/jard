@@ -13,7 +13,7 @@ and then to verify success using `jard version` command.
 
 ```
 
-## Quick Started
+## Getting Started
 We need a jard.yaml file, so use `jard int` to generate it. Please execute this command in the project root directory.
 Then edit the jard.yaml file and fill in your server username and password. 
 
