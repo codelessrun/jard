@@ -33,7 +33,7 @@ var rootCmd = &cobra.Command{
 	Long: `An easy-to-use jar package deployment tool,
 
 Most of the time, if you just want to quickly deploy an application to the server,
-try using jard (jar deploy) ! you just need to execute a command 'jard Deploy'
+try using jard (jar deploy) ! you just need to execute a command 'jard deploy'
 and then go get a cup of coffee and wait for it to do all the work for you !
 
 Find more information at: https://github.com/codelessrun/jard
